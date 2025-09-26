@@ -1,5 +1,5 @@
 #### MCS 1643 README file
-# **Replace this Project Name**
+# Assignment 2 - CJ Feller - Pong
 
 #### Author: *Replace this with your name*
 
@@ -9,7 +9,7 @@
 
 #### Questions for tutorial assignments: (remove this section for projects)
 **Which tutorial is this? **
-
+This is the assignment that creates a replica of the Pong arcade game.
 **1. Did you make any additions beyond the tutorial requirements? If so, what?**
 > &nbsp;
 ><i>(let me know what to look for, any additional keys to use, etc.)</i>   
