@@ -146,3 +146,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5136530cf61ee9a418a6e481347b8c3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bounceSound: {fileID: 8300000, guid: 66c413bc61cad9d41b894dca349f0a1e, type: 3}
